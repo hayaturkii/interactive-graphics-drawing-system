@@ -1,6 +1,8 @@
 # Graphics Drawing System
 An interactive desktop drawing application built with **C++** and the **Qt Framework**. Developed as part of an Object-Oriented Programming (OOP) course, the project demonstrates the use of inheritance, polymorphism, event-driven programming, and graphical user interface development.
 
+![Graphics Drawing System](images/main-window.png)
+
 ## Features
 - Draw geometric shapes including:
   - Lines
